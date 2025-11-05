@@ -1,0 +1,4 @@
+pypdf; python_version >= '3.6'
+PyPDF2; python_version >= '3.6'
+argparse; python_version < '3.2'
+pathlib; python_version < '3.4'

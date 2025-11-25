@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""
+r"""
 PDF Merger with Regex Pattern Matching
 
 This script merges PDF files based on regex patterns and allows you to specify
